@@ -1,7 +1,7 @@
 $(document).ready(function() {
   var ZoekTermen;
     $('#Ophalen').click(function(){
-    ZoekTermenen = $('#zoeken').val();
+    ZoekTermen = $('#zoeken').val();
        FotoOphaler();
  });
 
